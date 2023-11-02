@@ -7,6 +7,9 @@ print("4 Impossible (????)")
 print("5 Impossibler (?????)")
 # Stating Difficulties
 
+diff = 0
+Number = 0
+
 while True:
   diff = input("Start. Select Difficulty:")
 # Selects Difficulty
