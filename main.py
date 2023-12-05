@@ -33,6 +33,9 @@ diff = 0
 Number = 0
 myFavoriteNumbers = ["420","31","97"]
 
+for number in myFavoriteNumbers:
+      print( number )
+
 while True:
   diff = input("Start. Select Difficulty:")
 # Selects Difficulty
